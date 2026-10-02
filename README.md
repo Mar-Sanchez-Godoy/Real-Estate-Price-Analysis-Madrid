@@ -22,22 +22,22 @@ Understand the evolution of the price per square meter (m²) across Madrid’s d
 
 🟦 Page 1 — Home
 <p align="center">
-<img src="Images/Home.png" width="750">
+<img src="Screenshots/Home.png" width="750">
 </p>
 
 🟦 Page 2 — Prices
 <p align="center">
-<img src="Images/Prices.png" width="750">
+<img src="Screenshots/Prices.png" width="750">
 </p>
 
 🟦 Page 3 — Heatmap
 <p align="center">
-<img src="Images/Heatmap.png" width="750">
+<img src="Screenshots/Heatmap.png" width="750">
 </p>
 
 🟦 Page 3 — Conclusions
 <p align="center">
-<img src="Images/Conclusions.png" width="750">
+<img src="Screenshots/Conclusions.png" width="750">
 </p>
 
 ## Key Insights
@@ -78,15 +78,15 @@ https://servpub.madrid.es/CSEBD_WBINTER/seleccionSerie.html?numSerie=05040300001
 ## Repository Structure
 Code: Real-Estate-Madrid-Analysis/
 
-/Images
+/Screenshots
   Process visuals:
-  - Conclusiones y tendencia.png
+  - Conclusions.png
   - Heatmap.png
-  - Modelo de estrella.png
-  - Plantilla de precios de Madrid en bruto.png
-  - Ranking por distritos.png
-  - Tabla transformada.png
-  - Tablas.png
+  - Home.png
+  - Prices.png
+  - Raw data.png
+  - Star schema.png
+
 
 /dataset
   Files used:
@@ -98,10 +98,10 @@ README.md
 
 ## 📎 Included Files
 
-- Datos inmobiliarios.pbix → Final dashboard
-- Datos inmobiliarios - Visualizacion.pdf → Exported report
+- Dashboard Market Analysis - Madrid.pbix → Final dashboard
+- Dashboard Market Analysis - Madrid.pdf → Exported report
 - dataset/ → Original data
-- Images/ → Dashboard screenshots
+- Screenshots/ → Dashboard screenshots
 
 ## Learnings
 
